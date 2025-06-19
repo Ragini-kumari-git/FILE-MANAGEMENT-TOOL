@@ -121,5 +121,7 @@ Working with binary files
 
 This project highlights the significance of file input in application development and strengthens fundamental programming skills.
 
+#OUTPUT
 
+![Image](https://github.com/user-attachments/assets/a3e0b655-7782-4d1b-a0ea-4c5ca52041fe)
 
